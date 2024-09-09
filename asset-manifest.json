@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Somiya-Portfolio/static/css/main.5af75f72.css",
+    "main.js": "/Somiya-Portfolio/static/js/main.320ec545.js",
+    "static/js/453.62a54d1f.chunk.js": "/Somiya-Portfolio/static/js/453.62a54d1f.chunk.js",
+    "static/media/background.png": "/Somiya-Portfolio/static/media/background.26de437d448eacc45804.png",
+    "static/media/Somiya Portfolio.png": "/Somiya-Portfolio/static/media/Somiya Portfolio.737c180bf5f5c042651c.png",
+    "static/media/nodejs-1-logo-png-transparent.webp": "/Somiya-Portfolio/static/media/nodejs-1-logo-png-transparent.74f106e4c2b162d6a0cb.webp",
+    "static/media/javascript-1.webp": "/Somiya-Portfolio/static/media/javascript-1.06999f0c5ada5a989bf9.webp",
+    "static/media/Bootstrap_logo.webp": "/Somiya-Portfolio/static/media/Bootstrap_logo.d29f47fa13c58b4f2fb9.webp",
+    "static/media/html.webp": "/Somiya-Portfolio/static/media/html.8d33f087d32d99d81374.webp",
+    "static/media/CSS-Logo-500x313.webp": "/Somiya-Portfolio/static/media/CSS-Logo-500x313.dce4e8a2e17b6b7f5eea.webp",
+    "static/media/mongodb9740.logowik.com.webp": "/Somiya-Portfolio/static/media/mongodb9740.logowik.com.34ed4af3974aefb92e07.webp",
+    "static/media/express-1.webp": "/Somiya-Portfolio/static/media/express-1.182e67ce7cd1601e7e2e.webp",
+    "static/media/GitHub-logo-500x289.webp": "/Somiya-Portfolio/static/media/GitHub-logo-500x289.62635564a45a600d62d7.webp",
+    "index.html": "/Somiya-Portfolio/index.html",
+    "main.5af75f72.css.map": "/Somiya-Portfolio/static/css/main.5af75f72.css.map",
+    "main.320ec545.js.map": "/Somiya-Portfolio/static/js/main.320ec545.js.map",
+    "453.62a54d1f.chunk.js.map": "/Somiya-Portfolio/static/js/453.62a54d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5af75f72.css",
+    "static/js/main.320ec545.js"
+  ]
+}
